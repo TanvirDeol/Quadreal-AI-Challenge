@@ -15,6 +15,7 @@
 ### How we built it 🛠️
 - **Doing Analysis on Time Series Data**: Analyzing time series data about trends, seasonality, cyclical etc.
 - **K-Fold Mean Target Encoding**: This feature made the biggest different in our MSE score.
+- **XGBoost**: Our versatile classification model.
 - **Isolation Forest**: Useful for anomaly detection.
 
 ---
